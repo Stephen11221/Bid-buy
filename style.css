@@ -103,8 +103,7 @@ header ul li a{
         box-sizing: content-box;
     }
     .top-section .logo{
-        width: 86px;
-        height: 45px;
+        
         margin-left: 20px;
         
         z-index: -2;
