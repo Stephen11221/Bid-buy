@@ -101,17 +101,18 @@ header ul li a{
         
     }
     .top-section header .top-button{
-        margin-left: 36px;
+        margin-left: 5px;
         position: absolute;
         top: 130px; 
         
     }
     .top-section .text-ut .text-label{
-        margin-left: -280px;
+        margin-left: -330px;
+        margin-top: -40px;
 
     }
     .top-section .text-ut .red-box{
-        margin-left: -170px;
+        margin-left: -220px;
         border-radius: 5px;
         animation: 12s mymove ease-in;
     }
@@ -130,7 +131,7 @@ header ul li a{
     }
     .top-section .text-ut input{
         margin-left: -320px;
-        width: 250px;
+        width: 150px;
 
     }
     
