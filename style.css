@@ -101,17 +101,17 @@ header ul li a{
         
     }
     .top-section header .top-button{
-        margin-left: 140px;
+        margin-left: 36px;
         position: absolute;
-        top: 140px; 
+        top: 130px; 
         
     }
     .top-section .text-ut .text-label{
-        margin-left: -220px;
+        margin-left: -280px;
 
     }
     .top-section .text-ut .red-box{
-        margin-left: -110px;
+        margin-left: -170px;
         border-radius: 5px;
         animation: 12s mymove ease-in;
     }
@@ -122,12 +122,14 @@ header ul li a{
         color: rgba(6, 34, 59, 0.425);}
     }
     .top-section img{
-        margin-top: 23px;
-        width: 250px;
-        height: 300px;
+        margin-top: 43px;
+        margin-left: -20px;
+        width: 200px;
+
+        height: 280px;
     }
     .top-section .text-ut input{
-        margin-left: -273px;
+        margin-left: -320px;
         width: 250px;
 
     }
