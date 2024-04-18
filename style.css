@@ -97,8 +97,7 @@ header ul li a{
 }
 @media screen and (max-width: 600px) {
     body{
-        width: 100%;
-        padding: 0;    
+         padding: 0;    
         overflow: hidden;
         margin: 0;
         box-sizing: content-box;
